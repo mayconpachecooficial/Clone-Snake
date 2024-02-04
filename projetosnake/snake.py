@@ -264,7 +264,7 @@ while True:
                 pygame.display.update()
                 clock.tick(10)
 
-# O restante do seu código continua aqui, dependendo da escolha feita.
+
 
 
 
