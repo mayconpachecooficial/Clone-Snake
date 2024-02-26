@@ -1,4 +1,3 @@
-Introdução:
 Desenvolver o jogo clássico da cobra foi uma experiência fascinante. Meu objetivo era criar uma versão simples, mas envolvente, utilizando a biblioteca Pygame. Ao longo do processo, adotei uma abordagem modular para garantir legibilidade e facilidade de manutenção.
 
 Estrutura e Implementação:
